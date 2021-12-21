@@ -2,7 +2,7 @@
   
   ```css
   NotCoolKiwi@GitHub
-  -----------------
+  ------------------
   Name: Kiwi
   Favorite Language: Java/Kotlin
   Projects: Craftix/KiwiPurpur/KiwiChat
